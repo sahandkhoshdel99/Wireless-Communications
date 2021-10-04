@@ -1,5 +1,7 @@
 # Wireless-Communications
-
+## Paper Presentation
+My paper presentation is about comprehensive survey on "Machine Learning in Wireless Sensor Networks"
+## Final CA
 The Final Computer Assignment of this course is a simplified implementation of an OFDM system, comprised of multiple modules in the transmitter and the corresponding modules in the receiver. 
 
 I've written the report in Persian. However, plots included in the main (.mlx) file (and also the last chapter of the report), are basically answers to the following questions:
