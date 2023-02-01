@@ -2,7 +2,7 @@
 
 
 ## Paper Presentation
-My paper presentation is about comprehensive survey on **"Machine Learning in Wireless Sensor Networks"**. The pdf file of the paper I've used is uploaded in it's corresponding folder. 
+My paper presentation is based on a comprehensive survey on **"Machine Learning in Wireless Sensor Networks"**. The pdf file of the paper I've used is uploaded in it's corresponding folder. 
 
 
 ## Final CA
